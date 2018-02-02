@@ -1,7 +1,7 @@
 # ruten
 對於露天拍賣的大量賣家，可以很方便的檢視、整理訂單。</br>
 詳細操作方式可以參考這裡，</br>
-<a href="https://www.youtube.com/watch?v=pQtxJs5cRqU" target="_blank">https://www.youtube.com/watch?v=pQtxJs5cRqU</a>
+https://www.youtube.com/watch?v=pQtxJs5cRqU
 </br>
 <h3>使用說明：</h3>
 
@@ -21,6 +21,4 @@ C-001   美國軍規 超強防摔殼 iPhone   400</br>
 後續可以利用[銷售表]統計當月、當年度的營利。</br></br>
 
 使用Google Chrome瀏覽器，配合底下Google extension，作業可以更快速方便。</br>
-<a href="https://chrome.google.com/webstore/detail/select-and-copy-all/midhdlmhkhhbnolklpaaecmmghhoklji" target="_blank">https://chrome.google.com/webstore/detail/select-and-copy-all/midhdlmhkhhbnolklpaaecmmghhoklji</a>
-
-
+https://chrome.google.com/webstore/detail/select-and-copy-all/midhdlmhkhhbnolklpaaecmmghhoklji
