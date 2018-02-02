@@ -1,11 +1,11 @@
 # ruten
 對於露天拍賣的大量賣家，可以很方便的檢視、整理訂單。</br>
 詳細操作方式可以參考這裡，</br>
-[https://www.youtube.com/watch?v=pQtxJs5cRqU](https://www.youtube.com/watch?v=pQtxJs5cRqU)
+<a href="https://www.youtube.com/watch?v=pQtxJs5cRqU" target="_blank">https://www.youtube.com/watch?v=pQtxJs5cRqU</a>
 </br>
 <h3>使用說明：</h3>
 
-需要在Google Sheets裡建兩個表，[成本資料庫]和[2016銷售表]</br></br>
+需要在Google Sheets裡建兩個表，[成本資料庫]和[2016銷售表]</br>
 
 <b>[成本資料庫]</b>有三欄，結構如下：</br>
 <blockquote>
@@ -21,6 +21,6 @@ C-001   美國軍規 超強防摔殼 iPhone   400</br>
 後續可以利用[銷售表]統計當月、當年度的營利。</br></br>
 
 使用Google Chrome瀏覽器，配合底下Google extension，作業可以更快速方便。</br>
-[https://chrome.google.com/webstore/detail/select-and-copy-all/midhdlmhkhhbnolklpaaecmmghhoklji](https://chrome.google.com/webstore/detail/select-and-copy-all/midhdlmhkhhbnolklpaaecmmghhoklji)
+<a href="https://chrome.google.com/webstore/detail/select-and-copy-all/midhdlmhkhhbnolklpaaecmmghhoklji" target="_blank">https://chrome.google.com/webstore/detail/select-and-copy-all/midhdlmhkhhbnolklpaaecmmghhoklji</a>
 
 
